@@ -65,6 +65,11 @@ jobs:
               ;;
             "Render specification")
               node --no-warnings -e "require('spec-up-t/index.js')({ nowatch: true })"
+              git config --global user.email "actions@github.com"
+              git config --global user.name "GitHub Actions"
+              git add .
+              git commit -m "Render specification: Update files" || echo "No changes to commit"
+              git push https://x-access-token:${{ secrets.MY_PAT }}@github.com/${{ github.repository }}.git HEAD:main
               ;;
             "Develop specification")
               node -e "require('spec-up-t')({ dev: true })"
