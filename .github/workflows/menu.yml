@@ -31,7 +31,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # We’ll use MY_PAT for push
+          persist-credentials: true  # We’ll use MY_PAT for push
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -69,7 +69,7 @@ jobs:
               git config --global user.name "GitHub Actions"
               git add .
               git commit -m "Render specification: Update files" || echo "No changes to commit"
-              git push https://x-access-token:${{ secrets.MY_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+              git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
               ;;
             "Develop specification")
               node -e "require('spec-up-t')({ dev: true })"
