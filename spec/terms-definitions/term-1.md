@@ -13,3 +13,5 @@
 ~ Extra text for testing purposes.
 
 ~ [[ref: term 3]] dit een testje 2 van Kor
+
+[[ref: term 3]]
