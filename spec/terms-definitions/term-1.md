@@ -15,3 +15,5 @@
 ~ [[ref: term 3]] dit een testje 2 van Kor
 
 [[ref: term 3]]
+
+~ [[ref: term 3]]
