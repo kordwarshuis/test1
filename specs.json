@@ -9,9 +9,9 @@
       "output_path": "./docs",
       "markdown_paths": [
         "_term-11.md",
+        "terms-and-definitions-intro.md",
         "example-markup-in-markdown.md",
         "spec-body.md",
-        "terms-and-definitions-intro.md",
         "spec-head.md",
         "term-8.md"
       ],
