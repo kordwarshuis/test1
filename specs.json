@@ -12,8 +12,8 @@
         "_term-11.md",
         "example-markup-in-markdown.md",
         "spec-body.md",
-        "term-8.md",
-        "spec-head.md"
+        "spec-head.md",
+        "term-8.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
       "logo_link": "https://github.com/trustoverip/spec-up-t",
