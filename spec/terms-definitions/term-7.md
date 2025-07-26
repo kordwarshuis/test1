@@ -1,9 +1,9 @@
-# term-7
+~ # term-7
 
-## Overview
+~ ## Overview
 
-Description of this specification.
+~ Description of this specification.
 
-## Details
+~ ## Details
 
-Detailed content goes here.
+~ Detailed content goes here.
