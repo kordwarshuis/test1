@@ -10,10 +10,11 @@
       "markdown_paths": [
         "spec-body.md",
         "_term-11.md",
-        "terms-and-definitions-intro.md",
         "spec-head.md",
         "term-8.md",
-        "example-markup-in-markdown.md"
+        "terms-and-definitions-intro.md",
+        "example-markup-in-markdown.md",
+        "term-12.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
       "logo_link": "https://github.com/trustoverip/spec-up-t",
