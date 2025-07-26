@@ -9,10 +9,10 @@
       "output_path": "./docs",
       "markdown_paths": [
         "_term-11.md",
-        "terms-and-definitions-intro.md",
         "example-markup-in-markdown.md",
         "spec-body.md",
         "spec-head.md",
+        "terms-and-definitions-intro.md",
         "term-8.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
