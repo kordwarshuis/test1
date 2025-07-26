@@ -8,10 +8,10 @@
       "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
       "markdown_paths": [
-        "terms-and-definitions-intro.md",
         "_term-11.md",
         "example-markup-in-markdown.md",
         "spec-body.md",
+        "terms-and-definitions-intro.md",
         "spec-head.md",
         "term-8.md"
       ],
