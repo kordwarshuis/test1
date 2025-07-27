@@ -9,12 +9,9 @@
       "output_path": "./docs",
       "markdown_paths": [
         "spec-body.md",
-        "_term-11.md",
-        "spec-head.md",
-        "term-8.md",
-        "terms-and-definitions-intro.md",
         "example-markup-in-markdown.md",
-        "term-12.md"
+        "spec-head.md",
+        "terms-and-definitions-intro.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
       "logo_link": "https://github.com/trustoverip/spec-up-t",
